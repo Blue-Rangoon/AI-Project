@@ -275,17 +275,74 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-<div align="left">
+<div align="center">
+  
+  <!-- Row 1: 3 Members -->
+  <table align="center">
+    <tr>
+      <!-- Sadia Shoaib -->
+      <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+        <a href="https://github.com/Sadia-Shoaib">
+          <img src="https://github.com/Sadia-Shoaib.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Sadia Shoaib Avatar"/>
+          <br /><br />
+          <font size="3" color="#58a6ff"><b>Sadia Shoaib</b></font>
+        </a>
+        <br />
+        <font size="2" color="#8b949e">Lead ML Architect & Developer</font>
+        <br /><br />
+        <a href="https://github.com/Sadia-Shoaib">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <a href="https://www.linkedin.com/in/sadia-shoaib-/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+        </a>
+      </td>
+      <!-- Saad Ali Rizvi -->
+      <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+        <a href="https://github.com/Blue-Rangoon">
+          <img src="https://github.com/Blue-Rangoon.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Saad Ali Rizvi Avatar"/>
+          <br /><br />
+          <font size="3" color="#58a6ff"><b>Saad Ali Rizvi</b></font>
+        </a>
+        <br />
+        <font size="2" color="#8b949e">Frontend Developer</font>
+        <br /><br />
+        <a href="https://github.com/Blue-Rangoon">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <a href="https://linkedin.com/saad-ali-rizvi">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+        </a>
+      </td>
+      <!-- Laiba Idrees -->
+      <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+        <a href="https://github.com/laiba7826">
+          <img src="https://github.com/laiba7826.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Laiba Idrees Avatar"/>
+          <br /><br />
+          <font size="3" color="#58a6ff"><b>Laiba Idrees</b></font>
+        </a>
+        <br />
+        <font size="2" color="#8b949e">Backend Engineer</font>
+        <br /><br />
+        <a href="https://github.com/laiba7826">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+        </a>
+        <a href="https://www.linkedin.com/in/laiba-idrees-a14758319">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
 
-| Role | Name | LinkedIn |
-|------|------|----------|
-| 🚀 Lead Developer | [Sadia Shoaib](https://www.linkedin.com/in/sadia-shoaib-/) | 🔗 View Profile |
-| 💻 Frontend Developer | [Saad Ali Rizvi](https://www.linkedin.com/in/saad-ali-rizvi/) | 🔗 View Profile |
-| 🔗 Integration & Technical Specialist | [Syed Anas Hasan](https://www.linkedin.com/in/anas19/) | 🔗 View Profile |
-| 🧠 Algorithm Engineer | [Laiba Idrees](https://www.linkedin.com/in/laiba-idrees-a14758319/) | 🔗 View Profile |
-| 📊 Research & Documentation | [Alishba Batool](https://www.linkedin.com/in/alishba-batool-12b851355/) | 🔗 View Profile |
-
-</div>
+  <!-- Row 2: 2 Members -->
+  <table align="center">
+    <tr>
+      <!-- Syed Anas Hasan -->
+      <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+        <a href="https://github.com/Syed-Anas-Hasan">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJBcfu964JaBPwAWn-M5nBZHIB91oSmxkfwXOVBzOvtW1l30DlBGyvC0&s=10" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Syed Anas Hasan Avatar"/>
 
 ---
 
