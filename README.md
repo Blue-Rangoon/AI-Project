@@ -325,16 +325,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
         <font size="2" color="#8b949e">Backend Engineer</font>
         <br /><br />
         <a href="https://github.com/laiba7826">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
         </a>
         <a href="https://www.linkedin.com/in/laiba-idrees-a14758319">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
         </a>
       </td>
     </tr>
   </table>
   
-  <br/>
+  <br />
 
   <!-- Row 2: 2 Members -->
   <table align="center">
@@ -343,6 +343,40 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
       <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
         <a href="https://github.com/Syed-Anas-Hasan">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJBcfu964JaBPwAWn-M5nBZHIB91oSmxkfwXOVBzOvtW1l30DlBGyvC0&s=10" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Syed Anas Hasan Avatar"/>
+          <br /><br />
+          <font size="3" color="#58a6ff"><b>Syed Anas Hasan</b></font>
+        </a>
+        <br />
+        <font size="2" color="#8b949e">Integration & Technical Specialist</font>
+        <br /><br />
+        <a href="https://github.com/Syed-Anas-Hasan">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <a href="https://www.linkedin.com/in/anas19/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+        </a>
+      </td>
+      <!-- Alishba Batool -->
+      <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+        <a href="https://github.com/Alishba87542">
+          <img src="https://raw.githubusercontent.com/1l0/identicon/master/example/identicons/default.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Alishba Batool Avatar"/>
+          <br /><br />
+          <font size="3" color="#58a6ff"><b>Alishba Batool</b></font>
+        </a>
+        <br />
+        <font size="2" color="#8b949e">Research & Documentation</font>
+        <br /><br />
+        <a href="https://github.com/Alishba87542">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <a href="https://www.linkedin.com/in/alishba-batool-12b851355/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
