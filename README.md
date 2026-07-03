@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
           <font size="3" color="#58a6ff"><b>Sadia Shoaib</b></font>
         </a>
         <br />
-        <font size="2" color="#8b949e">Lead ML Architect & Developer</font>
+        <font size="2" color="#8b949e">Lead Developer</font>
         <br /><br />
         <a href="https://github.com/Sadia-Shoaib">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
