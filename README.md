@@ -19,6 +19,7 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/Blue-Rangoon/Smart-Delivery-Route-Planner-AI?style=for-the-badge&color=f39c12)](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI/commits/main)
 [![Stars](https://img.shields.io/github/stars/Blue-Rangoon/Smart-Delivery-Route-Planner-AI?style=for-the-badge&color=9b59b6)](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI/stargazers)
+[![Collaborators](https://img.shields.io/badge/Collaborators-5-23b5eb?style=for-the-badge)](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI/graphs/contributors)
 [![Contributors](https://img.shields.io/github/contributors/Blue-Rangoon/Smart-Delivery-Route-Planner-AI?style=for-the-badge&color=1abc9c)](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPLv3.0-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=success)](https://github.com/Blue-Rangoon/Smart-Delivery-Route-Planner-AI)
